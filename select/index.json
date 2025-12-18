@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ベル (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-18T13:26:37.440838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ベル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_ベル_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ベル (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_ベル_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ベル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_ベル_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "Sugar",
+      "has_synced": true,
+      "path": "select/04_ウエディング・ベル_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "上原れな",
+      "has_synced": true,
+      "path": "select/05_ウエディング・ベル_上原れな.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "Sugar",
+      "has_synced": true,
+      "path": "select/06_ウエディング・ベル_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サンシャイン･ベル",
+      "artist": "ファララ（cv.佐藤あずさ）",
+      "has_synced": false,
+      "path": "select/07_サンシャイン・ベル_ファララ(cv.佐藤あずさ).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ルル・ベル",
+      "artist": "soul'd out",
+      "has_synced": false,
+      "path": "select/08_ルル・ベル_soul'd_out.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "Sugar",
+      "has_synced": true,
+      "path": "select/09_ウエディング・ベル_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ベル - Bell",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_ベル_-_Bell_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ウェディング・ベル",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/11_ウェディング・ベル_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "シュガー",
+      "has_synced": false,
+      "path": "select/12_ウエディング・ベル_シュガー.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ウエディング・ベル",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/13_ウエディング・ベル_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ルル・ベル",
+      "artist": "SOUL’d OUT",
+      "has_synced": false,
+      "path": "select/14_ルル・ベル_SOUL’d_OUT.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "08. ベル",
+      "artist": "Bump of Chicken",
+      "has_synced": true,
+      "path": "select/15_08._ベル_Bump_of_Chicken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベル",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ベル_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
